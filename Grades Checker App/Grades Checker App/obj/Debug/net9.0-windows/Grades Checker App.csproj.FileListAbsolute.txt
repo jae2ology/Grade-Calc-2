@@ -1,0 +1,14 @@
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\bin\Debug\net9.0-windows\Grades Checker App.exe
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\bin\Debug\net9.0-windows\Grades Checker App.deps.json
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\bin\Debug\net9.0-windows\Grades Checker App.runtimeconfig.json
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\bin\Debug\net9.0-windows\Grades Checker App.dll
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\bin\Debug\net9.0-windows\Grades Checker App.pdb
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\Grades Checker App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\Grades Checker App.AssemblyInfoInputs.cache
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\Grades Checker App.AssemblyInfo.cs
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\Grades Checker App.csproj.CoreCompileInputs.cache
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\Grades Checker App.dll
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\refint\Grades Checker App.dll
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\Grades Checker App.pdb
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\Grades Checker App.genruntimeconfig.cache
+C:\Users\candy\OneDrive\Documents\Projects\C#\Grades Checker App\Grades Checker App\obj\Debug\net9.0-windows\ref\Grades Checker App.dll
